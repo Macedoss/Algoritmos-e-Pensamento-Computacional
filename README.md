@@ -21,7 +21,7 @@ Aqui estão os principais conceitos praticados neste repositório:
 
 ## 🚀 Como utilizar
 
-1.  Clone este repositório:
+1.  Repositório:
     https://github.com/Macedoss/Algoritmos-e-Pensamento-Computacional
 
 2.  Navegue pelas pastas para ver os exercícios de cada tópico.
